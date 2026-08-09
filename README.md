@@ -32,6 +32,14 @@ Portfolio Backtester lets you test a moving average crossover strategy on any st
 
 ---
 
+## Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![Results](screenshots/results.png)
+![Chart](screenshots/chart.png)
+
+---
+
 ## Tech Stack
 
 | Layer      | Technology                         |
